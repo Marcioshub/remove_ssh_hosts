@@ -1,6 +1,6 @@
 # Remove SSH Hosts
 
-This script removes hosts from saved ssh known_hosts file.
+This script removes hosts from saved ssh known_hosts file (Linux and MacOS).
 
 ## Usage
 
